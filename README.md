@@ -26,14 +26,13 @@ By creating this app, I learned:
 ---
 
 ## 🖼️ App Preview
-
-*Location-based weather*
-
-<img src="documentation/screenshots/location_weather.jpg" width="200" />
-
-*City search screen*
-
-<img src="documentation/screenshots/city_search.jpg" width="200" />
+<table>
+  <tr>
+    <td align="center"><strong>Demo</strong><br><img src="documentation/gifs/demo.gif" width="250"/></td>
+    <td align="center"><strong>City search screen</strong><br><img src="documentation/screenshots/city_search_screen.jpg" width="250"/></td>
+    <td align="center"><strong>Location-based weather screen</strong><br><img src="documentation/screenshots/location-based_weather_screen.jpg" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
